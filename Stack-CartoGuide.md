@@ -316,3 +316,9 @@ Fond de carte Vectoriel - Vido et autres
 ----
 
 <img height="600ev" src="include/process.svg"/>
+
+----
+
+## Takeaway
+
+![](include/qr-code.svg)
